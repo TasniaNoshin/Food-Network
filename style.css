@@ -1,5 +1,6 @@
 body{
     font-family: 'Ubuntu', sans-serif;
+    margin: 0%;
 }
 h1{
     font-size: 45px;
@@ -8,7 +9,8 @@ h1{
 }
 p{
     margin-top: 20px;
-    margin-bottom: 80px;
+    margin-bottom: 40px;
+    padding-right: 50px;
 }
 
 h2{
@@ -16,6 +18,7 @@ h2{
     margin-top: 60px;
     margin-bottom: 40px;
 }
+
 .purple{
     color: blueviolet;
 }
@@ -39,6 +42,10 @@ h2{
     font-size: 15px;
     font-weight: 600;
     padding: 10px 20px;
+    ;
+}
+h3{
+    margin-top: 50px;
 }
 .first-banner{
     background-image: url(food-network-main/images/shapes/Frame\ 58.jpg);
@@ -64,7 +71,7 @@ h2{
     width: 100%;
 }
 .recipie-title img{
-border-radius:8% ;
+border-radius:4% ;
 margin: 1px 1px 5px ;
 height: 45%;
     width: 100%;
