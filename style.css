@@ -32,7 +32,7 @@ h2{
 }
 .half-width img {
     margin-top: 70px;
-    width: 70%;
+    width: 90%;
 }
 .link-button{
     text-decoration: none;
@@ -105,6 +105,16 @@ footer{
         padding-left: 40px;
         border-radius: 2%;
         width: 90%;
-margin-left: 50px;
+        margin-left: 50px;
 
     }
+     .email-submit{
+
+        
+margin-bottom: 80px;
+padding: 40px;
+text-align: center;
+background-image: linear-gradient(pink,rgba(255, 0, 64, 0.966));
+
+
+}
